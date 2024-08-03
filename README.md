@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @CandraZul
 - 👀 I’m interested in IOT, Game Development, and Machine Learning
-- 🌱 I’m currently learning Javascript, Java, and Python
 - 💞️ I’m looking to collaborate on ..i don't know, haven't figure it out yet
 - 📫 -
 
